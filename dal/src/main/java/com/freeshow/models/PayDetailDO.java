@@ -8,13 +8,13 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * 支付信息 DO
+ * 支付明细 DO
  * Created by Mac Zhang on 14-11-7 下午22:00
  */
 @Getter
 @Setter
 @ToString
-public class PayInfoDO implements Serializable{
+public class PayDetailDO implements Serializable{
 
     private static final long serialVersionUID = 1625538457626608940L;
     /**
@@ -36,6 +36,11 @@ public class PayInfoDO implements Serializable{
      * 客户账户号
      */
     private String accountNo;
+
+    /**
+     * 登陆名
+     */
+    private String loginName;
 
     /**
      *支付金额(单位：分)

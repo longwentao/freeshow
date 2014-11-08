@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.bestpay.accounting.dal.mapper.AccCurrencyMapper" >
+<mapper namespace="com.freeshow.mapper.CustomerInfoMapper" >
 
     <resultMap id="BaseResultMap" type="com.freeshow.models.CustomerInfoDO" >
         <id column="ID" property="id" jdbcType="DECIMAL" />
@@ -14,6 +14,7 @@
         <result column="CUSTOMER_LVL" property="customerLvl" jdbcType="VARCHAR" />
         <result column="AUTH_STATUS" property="authStatus" jdbcType="VARCHAR" />
         <result column="AUTH_WAY" property="authWay" jdbcType="VARCHAR" />
+        <result column="AUTH_DATE" property="authDate" jdbcType="TIMESTAMP" />
         <result column="CREATED_AT" property="createdAt" jdbcType="TIMESTAMP" />
         <result column="CREATED_BY" property="createdBy" jdbcType="VARCHAR" />
         <result column="UPDATED_AT" property="updatedAt" jdbcType="TIMESTAMP" />
@@ -32,6 +33,7 @@
         CUSTOMER_LVL,
         AUTH_STATUS,
         AUTH_WAY,
+        AUTH_DATE,
         CREATED_AT,
         CREATED_BY,
         UPDATED_AT,

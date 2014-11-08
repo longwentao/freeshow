@@ -4,29 +4,29 @@
     <list default="true" id="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" name="Default" comment="" />
     <ignored path="medium.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415421357330" ignored="false" />
+    <file path="/Dummy.txt" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435767210" ignored="false" />
     <file path="/README.md" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378762302" ignored="false" />
-    <file path="/pom.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378878473" ignored="false" />
+    <file path="/pom.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415439418571" ignored="false" />
     <file path="/local.properties" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1414472280464" ignored="false" />
-    <file path="/fragment.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415420565247" ignored="false" />
+    <file path="/fragment.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415445188065" ignored="false" />
     <file path="/CheckPreload.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1414477506510" ignored="false" />
     <file path="H:/cifcore/pom.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1414477449486" ignored="false" />
     <file path="/index.jsp" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1414913075731" ignored="false" />
-    <file path="/CustomerCreateReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415370527812" ignored="false" />
+    <file path="/CustomerCreateReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415445142608" ignored="false" />
     <file path="H:/cifcore/product-service-facade/src/main/java/com/bestpay/cif/product/bizparammodel/CustomerCreateReqDto.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415370581124" ignored="false" />
     <file path="/Response.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415370843111" ignored="false" />
-    <file path="/CustomerFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415373645072" ignored="false" />
+    <file path="/CustomerFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415436810723" ignored="false" />
     <file path="/CustomerQueryReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415371460320" ignored="false" />
     <file path="/CustomerResDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415371492568" ignored="false" />
     <file path="/CustomerAccountFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374016280" ignored="false" />
     <file path="/CustomerAccFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415372965589" ignored="false" />
     <file path="/CustomerAccRechargeDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415372582442" ignored="false" />
-    <file path="/LoginInfoFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374207251" ignored="false" />
+    <file path="/LoginInfoFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415438173902" ignored="false" />
     <file path="/LoginDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415373417189" ignored="false" />
     <file path="/LoginInfoCreateReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415373429786" ignored="false" />
     <file path="/AccResDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415373445759" ignored="false" />
     <file path="/AccRechargeReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415373453257" ignored="false" />
-    <file path="/AccountFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374736181" ignored="false" />
+    <file path="/AccountFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415437647816" ignored="false" />
     <file path="/LoginInfoModifyReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374144099" ignored="false" />
     <file path="/LoginInfoResDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374161064" ignored="false" />
     <file path="/OrderFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415374540310" ignored="false" />
@@ -38,11 +38,11 @@
     <file path="H:/cifcore/product-manager/src/main/java/com/bestpay/cif/product/manager/CustomerBindApplyManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415375867542" ignored="false" />
     <file path="H:/cifcore/product-manager/src/main/java/com/bestpay/cif/product/manager/CustomerAssetProdManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415376346792" ignored="false" />
     <file path="/CustomerAssetProdManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415375884107" ignored="false" />
-    <file path="/AccountMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377178698" ignored="false" />
+    <file path="/AccountMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415440932702" ignored="false" />
     <file path="/CustomerInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377249495" ignored="false" />
     <file path="/CustomerOrgMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377394550" ignored="false" />
     <file path="/CustomerPersonMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377480239" ignored="false" />
-    <file path="/LoginInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377552595" ignored="false" />
+    <file path="/LoginInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415446319130" ignored="false" />
     <file path="/OrderInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415377760396" ignored="false" />
     <file path="/OrderPayMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378352470" ignored="false" />
     <file path="/AccountMapper.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415434330779" ignored="false" />
@@ -53,18 +53,45 @@
     <file path="/OrderInfoMapper.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435454875" ignored="false" />
     <file path="/OrderPayMapper.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378207950" ignored="false" />
     <file path="/PayInfoFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378323042" ignored="false" />
-    <file path="/PayInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415378352781" ignored="false" />
+    <file path="/PayInfoMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415438953626" ignored="false" />
     <file path="/AccountDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415421980795" ignored="false" />
     <file path="/CustomerInfoDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415434703799" ignored="false" />
     <file path="/CustomerOrgDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415426140333" ignored="false" />
     <file path="/CustomerPersonDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415427411136" ignored="false" />
-    <file path="/LoginInfoDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415434520579" ignored="false" />
+    <file path="/LoginInfoDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415444145494" ignored="false" />
     <file path="/OrderInfoDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435296424" ignored="false" />
     <file path="/PayInfoDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435369734" ignored="false" />
     <file path="/AccountFollowersMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415421013121" ignored="false" />
     <file path="/AccountFollowersDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415421444383" ignored="false" />
     <file path="/AccountFollowersMapper.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435547871" ignored="false" />
     <file path="/PayInfoMapper.xml" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415435426618" ignored="false" />
+    <file path="/CustomerFacadeImpl.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415436019763" ignored="false" />
+    <file path="/BussErrorCode.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415436336567" ignored="false" />
+    <file path="/VerifyUtil.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415436461646" ignored="false" />
+    <file path="/AccountFacadeImpl.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415441161122" ignored="false" />
+    <file path="/AccPayPwdModifyReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415441045019" ignored="false" />
+    <file path="/LoginPwdModifyReqDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415437474174" ignored="false" />
+    <file path="/LoginInfoFacadeImpl.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415437875918" ignored="false" />
+    <file path="/AccountManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415441190869" ignored="false" />
+    <file path="/OrderDetailMapper.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415438940327" ignored="false" />
+    <file path="/PayDetailDO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415438927220" ignored="false" />
+    <file path="/OrderDetailFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415439037393" ignored="false" />
+    <file path="/PayDetailFacade.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415439072097" ignored="false" />
+    <file path="/CustomerManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442962141" ignored="false" />
+    <file path="/CustomerInfoManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415445747715" ignored="false" />
+    <file path="/CustomerLvl.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442167976" ignored="false" />
+    <file path="/CustomerType.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442273041" ignored="false" />
+    <file path="/CustomerStatus.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442371218" ignored="false" />
+    <file path="/AuthStatus.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442524876" ignored="false" />
+    <file path="/CommonString.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442819525" ignored="false" />
+    <file path="/AccountStatus.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415442941866" ignored="false" />
+    <file path="/LoginType.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415443706741" ignored="false" />
+    <file path="/RegisterChannel.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415444302288" ignored="false" />
+    <file path="/LoginInfoStatus.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415444587189" ignored="false" />
+    <file path="/LoginInfoRole.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415444936921" ignored="false" />
+    <file path="/LoginFrozeStatus.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415445240468" ignored="false" />
+    <file path="/LoginInfoManager.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415447814774" ignored="false" />
+    <file path="/LoginResDTO.java" changelist="cac54241-989c-4a1b-95bc-0dd1fbae6fc2" time="1415447278324" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +156,97 @@
     <favorites_list name="medium" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="LoginInfoManager.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/LoginInfoManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="34" selection-start="2311" selection-end="2311" vertical-scroll-proportion="0.21722846">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginInfoFacade.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/LoginInfoFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="19" selection-start="699" selection-end="710" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginResDTO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/models/LoginResDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="27" selection-start="446" selection-end="461" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerInfoMapper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/CustomerInfoMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="18" selection-start="413" selection-end="427" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountMapper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/AccountMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="13" selection-start="393" selection-end="402" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerInfoManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/CustomerInfoManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="46" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginInfoDO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/LoginInfoDO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="13" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BussErrorCode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/BussErrorCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="4" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/AccountManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="31" selection-start="1020" selection-end="1030" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -139,22 +256,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/AccountFollowersDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/AccountDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerOrgDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerPersonDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerOrgMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/AccountMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerPersonMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/LoginInfoDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerInfoMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerInfoDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/OrderInfoDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/PayInfoDO.java" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/AccountFollowersMapper.xml" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/CustomerStatus.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/AuthStatus.java" />
+        <option value="$PROJECT_DIR$/commons/src/main/java/com/freeshow/constant/CommonString.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/AccountStatus.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/LoginType.java" />
         <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/LoginInfoMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/OrderInfoMapper.xml" />
-        <option value="$PROJECT_DIR$/dal/src/main/resources/mapper/PayInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/RegisterChannel.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/LoginInfoStatus.java" />
+        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/LoginInfoDO.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/LoginInfoRole.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/LoginFrozeStatus.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/CustomerInfoManager.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/models/CustomerCreateReqDTO.java" />
+        <option value="$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/LoginInfoMapper.java" />
+        <option value="$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/models/LoginResDTO.java" />
+        <option value="$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/LoginInfoManager.java" />
       </list>
     </option>
   </component>
@@ -281,6 +398,156 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="service-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service-facade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="freeshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="dal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -304,14 +571,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mapper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,10 +601,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="freeshow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -390,12 +645,13 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="MavenSettings" />
-    <property name="last_opened_file_path" value="H:/cifcore" />
+    <property name="last_opened_file_path" value="H:/accounting" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -409,18 +665,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.freeshow.models" />
-      <recent name="com.freeshow.mapper" />
-      <recent name="com.freeshow.service.exception" />
+      <recent name="com.freeshow.service.enums" />
+      <recent name="com.freeshow.constant" />
+      <recent name="com.freeshow.manager.util" />
       <recent name="com.freeshow.service.models" />
-      <recent name="com.freeshow.service.facade" />
+      <recent name="com.freeshow.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\freeshow\document" />
       <recent name="H:\freeshow\dal\src\main\resources\mapper" />
       <recent name="H:\freeshow\freeshow-dal\src\main\resources\mapper" />
       <recent name="H:\medium\medium-web\src\main\resources" />
       <recent name="H:\medium\medium-web\src\main" />
-      <recent name="H:\medium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\medium\medium-web\src\main\java" />
@@ -712,7 +968,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -730,7 +986,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2030303" sideWeight="0.271012" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32045454" sideWeight="0.271012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32045454" sideWeight="0.271012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.728988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -805,132 +1061,124 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/AccountDO.java">
+    <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/CustomerFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="28" selection-start="1481" selection-end="1490" vertical-scroll-proportion="0.794964">
+        <state line="17" column="62" selection-start="517" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/models/CustomerCreateReqDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="278" selection-end="278" vertical-scroll-proportion="-0.7859712">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/AccountFollowersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/CustomerOrgMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/CustomerPersonMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/OrderDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="75" selection-start="542" selection-end="651" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/LoginInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="17" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerOrgDO.java">
+    <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/enums/BussErrorCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="26" selection-start="2041" selection-end="2048" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerPersonDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="34" selection-start="1374" selection-end="1389" vertical-scroll-proportion="-0.19604316">
-          <folding />
+        <state line="26" column="4" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/LoginInfoDO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="30" selection-start="1643" selection-end="1656" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/CustomerInfoDO.java">
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/AccountMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="16" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.48741007">
+        <state line="22" column="13" selection-start="393" selection-end="402" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/OrderInfoDO.java">
+    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/mapper/CustomerInfoMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="12" selection-start="850" selection-end="857" vertical-scroll-proportion="0.0">
+        <state line="22" column="18" selection-start="413" selection-end="427" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/PayInfoDO.java">
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/AccountManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="24" selection-start="1406" selection-end="1411" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/java/com/freeshow/models/AccountFollowersDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="36" selection-start="536" selection-end="553" vertical-scroll-proportion="0.57913667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/AccountFollowersMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="214" selection-end="214" vertical-scroll-proportion="0.102517985">
+        <state line="35" column="31" selection-start="1020" selection-end="1030" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1415435591549" expanded="true" signature="-1:-1" placeholder="/* selectByI..." />
-            <marker date="1415435591549" expanded="true" signature="-1:-1" placeholder="/* selectByC..." />
-            <marker date="1415435591549" expanded="true" signature="-1:-1" placeholder="/* selectAll..." />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/AccountMapper.xml">
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/CustomerInfoManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="52" selection-start="188" selection-end="201" vertical-scroll-proportion="0.06834532">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerInfoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="53" selection-start="1238" selection-end="1246" vertical-scroll-proportion="0.5692884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerOrgMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="53" selection-start="1197" selection-end="1205" vertical-scroll-proportion="0.1423221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/CustomerPersonMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2937" selection-end="2937" vertical-scroll-proportion="2.1348314">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/LoginInfoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="85" selection-start="1791" selection-end="1791" vertical-scroll-proportion="0.5692884">
+        <state line="82" column="46" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1415435607192" expanded="true" signature="-1:-1" placeholder="/* selectByI..." />
-            <marker date="1415435607192" expanded="true" signature="-1:-1" placeholder="/* selectByC..." />
-            <marker date="1415435607192" expanded="true" signature="-1:-1" placeholder="/* selectAll..." />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/OrderInfoMapper.xml">
+    <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/LoginInfoFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="67" selection-start="1290" selection-end="1297" vertical-scroll-proportion="0.47841728">
-          <folding>
-            <marker date="1415435677154" expanded="true" signature="-1:-1" placeholder="/* selectByI..." />
-            <marker date="1415435677154" expanded="true" signature="-1:-1" placeholder="/* selectByC..." />
-            <marker date="1415435677154" expanded="true" signature="-1:-1" placeholder="/* selectAll..." />
-          </folding>
+        <state line="27" column="19" selection-start="699" selection-end="710" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dal/src/main/resources/mapper/PayInfoMapper.xml">
+    <entry file="file://$PROJECT_DIR$/service-facade/src/main/java/com/freeshow/service/models/LoginResDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="70" selection-start="1525" selection-end="1525" vertical-scroll-proportion="-0.5692884">
+        <state line="22" column="27" selection-start="446" selection-end="461" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/src/main/java/com/freeshow/manager/LoginInfoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="34" selection-start="2311" selection-end="2311" vertical-scroll-proportion="0.21722846">
           <folding>
-            <marker date="1415435677144" expanded="true" signature="-1:-1" placeholder="/* selectByI..." />
-            <marker date="1415435677144" expanded="true" signature="-1:-1" placeholder="/* selectByC..." />
-            <marker date="1415435677144" expanded="true" signature="-1:-1" placeholder="/* selectAll..." />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

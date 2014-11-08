@@ -95,10 +95,10 @@ public class LoginInfoDO implements Serializable{
 
     /**
      * 用户角色
-     * ADMIN-管理员
-     OPEN-开户操作员
-     OPERATOR-普通操作员(普通用户)
-     AUTH-授权人员（后台复核员）
+     SYS_ADMIN-系统后台管理员
+     SYS_AUTH-系统授权人员（后台复核员）
+     OPERATOR-普通用户
+     ADMIN _OPERATOR-普通用户主管理员
      */
     private String loginRole;
 
@@ -118,6 +118,16 @@ public class LoginInfoDO implements Serializable{
      * 最后登录时间
      */
     private Date lastLoginTime;
+
+    /**
+     * 注册渠道
+     * 描述客户创建注册时的渠道：
+     WEB-网站用户注册；
+     WAP-手机浏览器；
+     APP-App用户注册；
+     OTHER-其他渠道；
+     */
+    private String registerChannel;
 
     /**
      * 创建时间

@@ -1,35 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.bestpay.accounting.dal.mapper.AccCurrencyMapper" >
+<mapper namespace="com.freeshow.mapper.LoginInfoMapper" >
 
     <resultMap id="BaseResultMap" type="com.freeshow.models.LoginInfoDO" >
         <id column="ID" property="id" jdbcType="DECIMAL" />
+        <result column="CUSTOMER_NO" property="customerNo" jdbcType="VARCHAR" />
+        <result column="ACCOUNT_NO" property="accountNo" jdbcType="VARCHAR" />
+        <result column="LOGIN_NAME" property="loginName" jdbcType="VARCHAR" />
+        <result column="LOGIN_PWD" property="loginPwd" jdbcType="VARCHAR" />
+        <result column="LOGIN_TYPE" property="loginType" jdbcType="VARCHAR" />
+        <result column="LOGIN_NICK" property="loginNick" jdbcType="VARCHAR" />
+        <result column="PICTURE" property="picture" jdbcType="VARCHAR" />
+        <result column="LOGIN_NO_BEFORE_MODIFY" property="loginNoBeforeModify" jdbcType="VARCHAR" />
+        <result column="LOGIN_STATUS" property="loginStatus" jdbcType="VARCHAR" />
+        <result column="LAST_LOGINSUC_DATE" property="lastLoginSucDate" jdbcType="TIMESTAMP" />
+        <result column="LAST_LOGINFAIL_DATE" property="lastLoginFailDate" jdbcType="TIMESTAMP" />
+        <result column="LOGIN_PWDERROR_TIMES" property="loginPwdErrorTimes" jdbcType="DECIMAL" />
+        <result column="LAST_LOGIN_IP" property="lastLoginIp" jdbcType="VARCHAR" />
+        <result column="LOGIN_ROLE" property="loginRole" jdbcType="VARCHAR" />
+        <result column="LOGIN_FROZE_STATUS" property="loginFrozeStatus" jdbcType="VARCHAR" />
+        <result column="DESCRIPTION" property="description" jdbcType="VARCHAR" />
+        <result column="LAST_LOGIN_TIME" property="lastLoginTime" jdbcType="TIMESTAMP" />
+        <result column="REGISTER_CHANNEL" property="lastLoginTime" jdbcType="VARCHAR" />
         <result column="CREATED_AT" property="createdAt" jdbcType="TIMESTAMP" />
         <result column="CREATED_BY" property="createdBy" jdbcType="VARCHAR" />
         <result column="UPDATED_AT" property="updatedAt" jdbcType="TIMESTAMP" />
         <result column="UPDATED_BY" property="updatedBy" jdbcType="VARCHAR" />
-        <result column="CURRENCY_SYMBOL" property="currencySymbol" jdbcType="VARCHAR" />
-        <result column="CURRENCY_CODE" property="currencyCode" jdbcType="VARCHAR" />
-        <result column="CURRENCY_NAME" property="currencyName" jdbcType="VARCHAR" />
-        <result column="EFFECTIVE_DATE" property="effectiveDate" jdbcType="DATE" />
-        <result column="EXPIRY_DATE" property="expiryDate" jdbcType="DATE" />
-        <result column="CONTURY" property="contury" jdbcType="VARCHAR" />
-        <result column="DECIMAL_DIGITS" property="decimalDigits" jdbcType="VARCHAR" />
     </resultMap>
 
     <sql id="Base_Column_List">
         ID,
+        CUSTOMER_NO,
+        ACCOUNT_NO,
+        LOGIN_NO,
+        LOGIN_PWD,
+        LOGIN_TYPE,
+        LOGIN_NICK,
+        PICTURE,
+        LOGIN_NO_BEFORE_MODIFY,
+        LOGIN_STATUS,
+        LAST_LOGINSUC_DATE,
+        LAST_LOGINFAIL_DATE,
+        LOGIN_PWDERROR_TIMES,
+        LAST_LOGIN_IP,
+        LOGIN_ROLE,
+        LOGIN_FROZE_STATUS,
+        DESCRIPTION,
+        LAST_LOGIN_TIME,
+        REGISTER_CHANNEL,
         CREATED_AT,
         CREATED_BY,
         UPDATED_AT,
-        UPDATED_BY,
-        CURRENCY_SYMBOL,
-        CURRENCY_CODE,
-        CURRENCY_NAME,
-        EFFECTIVE_DATE,
-        EXPIRY_DATE,
-        CONTURY,
-        DECIMAL_DIGITS
+        UPDATED_BY
     </sql>
 
     <!-- 插入货币 -->

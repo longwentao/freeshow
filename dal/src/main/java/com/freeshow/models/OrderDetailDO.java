@@ -8,13 +8,13 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * 订单信息 DO
+ * 订单明细 DO
  * Created by Mac Zhang on 14-11-7 下午22:00
  */
 @Getter
 @Setter
 @ToString
-public class OrderInfoDO implements Serializable{
+public class OrderDetailDO implements Serializable{
 
     private static final long serialVersionUID = 1625538457626608940L;
 
@@ -24,9 +24,14 @@ public class OrderInfoDO implements Serializable{
     private Long id;
 
     /**
-     * 客户号
+     * 客户账户号
      */
-    private String customerNo;
+    private String accountNo;
+
+    /**
+     * 登陆名
+     */
+    private String loginName;
 
     /**
      * 客户账户模板编号
@@ -53,6 +58,7 @@ public class OrderInfoDO implements Serializable{
      * REQ-请求；
      SUC-成功；
      FAIL失败;
+     FAILURE-失效
      */
     private String orderStatus;
 
@@ -79,7 +85,7 @@ public class OrderInfoDO implements Serializable{
     /**
      * 订单附加信息
      */
-    private String attachMsg;
+    private String attach;
 
     /**
      * 创建时间

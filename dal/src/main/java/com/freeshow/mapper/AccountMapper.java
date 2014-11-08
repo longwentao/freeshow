@@ -29,4 +29,10 @@ public interface AccountMapper {
      */
     int update(AccountDO accountDO);
 
+    /**
+     * 更新客户账户支付密码
+     * @param accountDO 客户账户 DO
+     * @return 数据库执行条数
+     */
+    int updatePayPwd(AccountDO accountDO);
 }

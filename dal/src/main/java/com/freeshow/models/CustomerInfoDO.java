@@ -85,6 +85,11 @@ public class CustomerInfoDO implements Serializable{
     private String authWay;
 
     /**
+     * 认证日期
+     */
+    private Date authDate;
+
+    /**
      * 创建时间
      */
     private Date createdAt;

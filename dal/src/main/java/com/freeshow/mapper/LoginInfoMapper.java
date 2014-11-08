@@ -1,6 +1,7 @@
 package com.freeshow.mapper;
 
 import com.freeshow.models.LoginInfoDO;
+import org.apache.ibatis.annotations.Param;
 
 /**
  * 登陆信息持久层 Mapper
@@ -17,10 +18,19 @@ public interface LoginInfoMapper {
 
     /**
      * 根据 登陆号 查询登陆信息
-     * @param loginNo 登陆号
+     * @param loginName 登陆名
      * @return 货币
      */
-    LoginInfoDO selectByPrimaryKey(String loginNo);
+    LoginInfoDO selectByPrimaryKey(String loginName);
+
+    /**
+     * 根据登陆名、登陆密码
+     * @param loginName 登陆名
+     * @param loginPwd 登陆密码
+     * @return 登陆信息
+     */
+    LoginInfoDO selectByLogin(@Param("loginName") String loginName,
+                              @Param("loginPwd") String loginPwd);
 
     /**
      * 更新登陆信息

@@ -1,6 +1,6 @@
 package com.freeshow.mapper;
 
-import com.freeshow.models.PayInfoDO;
+import com.freeshow.models.PayDetailDO;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
@@ -13,10 +13,10 @@ public interface PayInfoMapper {
 
     /**
      * 插入订单支付信息
-     * @param payInfoDO 订单支付信息 DO
+     * @param payDetailDO 订单支付信息 DO
      * @return 数据库执行条数
      */
-    int insert(PayInfoDO payInfoDO);
+    int insert(PayDetailDO payDetailDO);
 
     /**
      * 根据 订单号、订单请求流水 查询订单支付信息
@@ -24,21 +24,21 @@ public interface PayInfoMapper {
      * @param orderReqNo 订单请求流水
      * @return 订单支付信息
      */
-    PayInfoDO selectByOrderReqNo(@Param("orderNo") String orderNo,
+    PayDetailDO selectByOrderReqNo(@Param("orderNo") String orderNo,
                                    @Param("orderReqNo") String orderReqNo);
 
     /**
      * 查询订单支付信息集合
-     * @param payInfoDO 订单支付信息
+     * @param payDetailDO 订单支付信息
      * @return 订单支付信息集
      */
-    List<PayInfoDO> selectByOrderReqNo(PayInfoDO payInfoDO);
+    List<PayDetailDO> selectByOrderReqNo(PayDetailDO payDetailDO);
 
     /**
      * 更新订单支付信息
-     * @param payInfoDO 订单支付信息 DO
+     * @param payDetailDO 订单支付信息 DO
      * @return 数据库执行条数
      */
-    int update(PayInfoDO payInfoDO);
+    int update(PayDetailDO payDetailDO);
 
 }
