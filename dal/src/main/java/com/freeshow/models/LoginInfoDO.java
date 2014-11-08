@@ -34,9 +34,9 @@ public class LoginInfoDO implements Serializable{
     private String accountNo;
 
     /**
-     * 登陆号
+     * 登陆名
      */
-    private String loginNo;
+    private String loginName;
 
     /**
      * 登录密码
@@ -59,7 +59,7 @@ public class LoginInfoDO implements Serializable{
     /**
      * 登陆信息头像
      */
-    private String loginHeadImg;
+    private String picture;
 
     /**
      * 修改前登录用户号
