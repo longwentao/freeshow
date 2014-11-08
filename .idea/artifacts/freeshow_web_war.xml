@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="freeshow-web:war">
+    <output-path>$PROJECT_DIR$/freeshow-web/target</output-path>
+    <root id="archive" name="medium.war">
+      <element id="artifact" artifact-name="freeshow-web:war exploded" />
+    </root>
+  </artifact>
+</component>

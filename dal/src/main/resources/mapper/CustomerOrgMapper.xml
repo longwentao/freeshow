@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.bestpay.accounting.dal.mapper.AccCurrencyMapper" >
+
+    <resultMap id="BaseResultMap" type="com.freeshow.models.CustomerOrgDO" >
+        <id column="ID" property="id" jdbcType="DECIMAL" />
+        <result column="CUSTOMER_NO" property="customerNo" jdbcType="VARCHAR" />
+        <result column="ORG_CODE" property="orgCode" jdbcType="VARCHAR" />
+        <result column="LEGAL_FLG" property="legalFlg" jdbcType="VARCHAR" />
+        <result column="GENR_TAX_FLG" property="genrTaxFlg" jdbcType="VARCHAR" />
+        <result column="ORG_TP_CD" property="orgTpCd" jdbcType="VARCHAR" />
+        <result column="TRD_TP_CD" property="trdTpCd" jdbcType="VARCHAR" />
+        <result column="INDUSTRY_TP_CD" property="industryTpCd" jdbcType="VARCHAR" />
+        <result column="REG_RGN_TP_CD" property="regRgnTpCd" jdbcType="VARCHAR" />
+        <result column="BUS_RGN_TP_CD" property="busRgnTpCd" jdbcType="VARCHAR" />
+        <result column="PROVINCE_TP_CD" property="provinceTpCd" jdbcType="VARCHAR" />
+        <result column="CITY_CODE" property="cityCode" jdbcType="VARCHAR" />
+        <result column="REG_ADDRESS" property="regAddress" jdbcType="VARCHAR" />
+        <result column="REG_ADDRESS_POST" property="regAddressPost" jdbcType="VARCHAR" />
+        <result column="RUN_ADDRESS" property="runAddress" jdbcType="VARCHAR" />
+        <result column="RUN_ADDRESS_POST" property="runAddressPost" jdbcType="VARCHAR" />
+        <result column="CORP_CUSTOMER_NO" property="corpCustomerNo" jdbcType="VARCHAR" />
+        <result column="MAIN_OPER" property="mainOper" jdbcType="VARCHAR" />
+        <result column="PART_OPER" property="partOper" jdbcType="VARCHAR" />
+        <result column="LICENSE_BEGIN_DATE" property="licenseBeginDate" jdbcType="TIMESTAMP" />
+        <result column="LICENSE_END_DATE" property="licenseEndDate" jdbcType="TIMESTAMP" />
+        <result column="OPEN_DATE" property="openDate" jdbcType="TIMESTAMP" />
+        <result column="ORG_WIND_DATE" property="orgWindDate" jdbcType="TIMESTAMP" />
+        <result column="LIQ_END_DATE" property="liqEndDate" jdbcType="TIMESTAMP" />
+        <result column="CLOSE_DATE" property="closeDate" jdbcType="TIMESTAMP" />
+        <result column="ORG_SUSP_DATE" property="orgSuspDate" jdbcType="TIMESTAMP" />
+        <result column="MGR_UNIT" property="mgrUnit" jdbcType="VARCHAR" />
+        <result column="CREATED_AT" property="createdAt" jdbcType="TIMESTAMP" />
+        <result column="CREATED_BY" property="createdBy" jdbcType="VARCHAR" />
+        <result column="UPDATED_AT" property="updatedAt" jdbcType="TIMESTAMP" />
+        <result column="UPDATED_BY" property="updatedBy" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        ID,
+        CUSTOMER_NO,
+        ORG_CODE,
+        LEGAL_FLG,
+        GENR_TAX_FLG,
+        ORG_TP_CD,
+        TRD_TP_CD,
+        INDUSTRY_TP_CD,
+        REG_RGN_TP_CD,
+        BUS_RGN_TP_CD,
+        PROVINCE_TP_CD,
+        CITY_CODE,
+        REG_ADDRESS,
+        REG_ADDRESS_POST,
+        RUN_ADDRESS,
+        RUN_ADDRESS_POST,
+        CORP_CUSTOMER_NO,
+        MAIN_OPER,
+        PART_OPER,
+        LICENSE_BEGIN_DATE,
+        LICENSE_END_DATE,
+        OPEN_DATE,
+        ORG_WIND_DATE,
+        LIQ_END_DATE,
+        CLOSE_DATE,
+        ORG_SUSP_DATE,
+        MGR_UNIT,
+        CREATED_BY,
+        CREATED_AT,
+        UPDATED_AT,
+        UPDATED_BY
+    </sql>
+
+
+</mapper>

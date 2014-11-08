@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.bestpay.accounting.dal.mapper.AccCurrencyMapper" >
+
+    <resultMap id="BaseResultMap" type="com.freeshow.models.LoginInfoDO" >
+        <id column="ID" property="id" jdbcType="DECIMAL" />
+        <result column="CREATED_AT" property="createdAt" jdbcType="TIMESTAMP" />
+        <result column="CREATED_BY" property="createdBy" jdbcType="VARCHAR" />
+        <result column="UPDATED_AT" property="updatedAt" jdbcType="TIMESTAMP" />
+        <result column="UPDATED_BY" property="updatedBy" jdbcType="VARCHAR" />
+        <result column="CURRENCY_SYMBOL" property="currencySymbol" jdbcType="VARCHAR" />
+        <result column="CURRENCY_CODE" property="currencyCode" jdbcType="VARCHAR" />
+        <result column="CURRENCY_NAME" property="currencyName" jdbcType="VARCHAR" />
+        <result column="EFFECTIVE_DATE" property="effectiveDate" jdbcType="DATE" />
+        <result column="EXPIRY_DATE" property="expiryDate" jdbcType="DATE" />
+        <result column="CONTURY" property="contury" jdbcType="VARCHAR" />
+        <result column="DECIMAL_DIGITS" property="decimalDigits" jdbcType="VARCHAR" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        ID,
+        CREATED_AT,
+        CREATED_BY,
+        UPDATED_AT,
+        UPDATED_BY,
+        CURRENCY_SYMBOL,
+        CURRENCY_CODE,
+        CURRENCY_NAME,
+        EFFECTIVE_DATE,
+        EXPIRY_DATE,
+        CONTURY,
+        DECIMAL_DIGITS
+    </sql>
+
+    <!-- 插入货币 -->
+    <insert id="insert" parameterType="com.bestpay.accounting.dal.models.AccCurrencyDO">
+        /* insert */
+        INSERT INTO
+            T_ACC_CURRENCY (
+            ID,
+            CREATED_AT,
+            CREATED_BY,
+            UPDATED_AT,
+            UPDATED_BY,
+            CURRENCY_SYMBOL,
+            CURRENCY_CODE,
+            CURRENCY_NAME,
+            EFFECTIVE_DATE,
+            EXPIRY_DATE,
+            CONTURY,
+            DECIMAL_DIGITS)
+        VALUES (
+            #{id,jdbcType=DECIMAL},
+            SYSDATE,
+            #{createdBy,jdbcType=VARCHAR},
+            SYSDATE,
+            #{updatedBy,jdbcType=VARCHAR},
+            #{currencySymbol,jdbcType=VARCHAR},
+            #{currencyCode,jdbcType=VARCHAR},
+            #{currencyName,jdbcType=VARCHAR},
+            #{effectiveDate,jdbcType=TIMESTAMP},
+            #{expiryDate,jdbcType=TIMESTAMP},
+            #{contury,jdbcType=VARCHAR},
+            #{decimalDigits,jdbcType=DECIMAL})
+    </insert>
+
+    <!-- 根据 Id 查询货币 -->
+    <select id="selectById" resultMap="BaseResultMap" parameterType="java.lang.String">
+        /* selectById */
+        SELECT
+            <include refid="Base_Column_List"/>
+        FROM
+            T_ACC_CURRENCY
+        WHERE
+            ID = #{id,jdbcType=VARCHAR}
+    </select>
+
+    <!-- 根据货币代码查询货币 -->
+    <select id="selectByCurrencyCode" resultMap="BaseResultMap" parameterType="java.lang.String">
+        /* selectByCurrencySymbol */
+        SELECT
+            <include refid="Base_Column_List"/>
+        FROM
+            T_ACC_CURRENCY
+        WHERE
+            CURRENCY_CODE = #{currencyCode,jdbcType=VARCHAR}
+        AND
+            <![CDATA[
+                EXPIRY_DATE >= CAST(#{currentDate,jdbcType=DATE} AS DATE)
+            ]]>
+    </select>
+
+    <!-- 查询所有货币 （鹏飞用到） -->
+    <select id="selectAll" resultMap="BaseResultMap" parameterType="java.lang.String">
+        /* selectAll */
+        SELECT
+            <include refid="Base_Column_List"/>
+        FROM
+            T_ACC_CURRENCY
+    </select>
+
+    <!-- 更新货币 -->
+    <update id="update" parameterType="com.bestpay.accounting.dal.models.AccCurrencyDO">
+        /* update */
+        UPDATE
+            T_ACC_CURRENCY
+        SET
+            UPDATED_AT = SYSDATE,
+            UPDATED_BY = #{updatedBy,jdbcType=VARCHAR}
+            <if test="currencySymbol != null" >
+                , CURRENCY_SYMBOL = #{currencySymbol,jdbcType=VARCHAR}
+            </if>
+            <if test="currencyCode != null" >
+                , CURRENCY_CODE = #{currencyCode,jdbcType=VARCHAR}
+            </if>
+            <if test="currencyName != null" >
+                , CURRENCY_NAME = #{currencyName,jdbcType=VARCHAR}
+            </if>
+            <if test="effectiveDate != null" >
+                , EFFECTIVE_DATE = #{effectiveDate,jdbcType=TIMESTAMP}
+            </if>
+            <if test="expiryDate != null" >
+                , EXPIRY_DATE = #{expiryDate,jdbcType=TIMESTAMP}
+            </if>
+            <if test="contury != null" >
+                , CONTURY = #{contury,jdbcType=VARCHAR}
+            </if>
+            <if test="decimalDigits != null" >
+                , DECIMAL_DIGITS = #{decimalDigits,jdbcType=DECIMAL}
+            </if>
+        WHERE
+            ID = #{id,jdbcType=DECIMAL}
+    </update>
+
+</mapper>
